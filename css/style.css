@@ -219,7 +219,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
   position: relative;
 }
-#fh5co-header .navbar-brand:after, #fh5co-header .navbar-brand:before {
+/* #fh5co-header .navbar-brand:after, #fh5co-header .navbar-brand:before {
   content: "";
   position: absolute;
   display: block;
@@ -233,7 +233,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}
+} */
 #fh5co-header .navbar-brand:before {
   left: 0px;
   background: rgba(250, 85, 85, 0.8);
@@ -860,7 +860,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #00ADB5;
   z-index: 1;
 }
-.fh5co-services .box-services .icon span:before {
+/* .fh5co-services .box-services .icon span:before {
   position: absolute;
   top: 8px;
   left: 8px;
@@ -874,7 +874,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}
+} */
 .fh5co-services .fh5co-post h3 {
   font-size: 20px;
   margin-bottom: 15px;
@@ -1077,7 +1077,7 @@ h1, h2, h3, h4, h5, h6 {
 .section-heading h2 span {
   position: relative;
 }
-.section-heading h2 span:after, .section-heading h2 span:before {
+/* .section-heading h2 span:after, .section-heading h2 span:before {
   content: "";
   position: absolute;
   display: block;
@@ -1091,7 +1091,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-}
+} */
 .section-heading h2 span:before {
   left: 0px;
   background: #FA5555;
